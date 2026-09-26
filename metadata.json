@@ -1,0 +1,6 @@
+{
+  "name": "منصة إدارة المدرسين - Academic System",
+  "description": "نظام احترافي متكامل لإدارة مجموعات الطلاب، تسجيل الحضور والغياب، متابعة تحصيل الاشتراكات والمذكرات، وإرسال تنبيهات واتساب فورية لأولياء الأمور.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
